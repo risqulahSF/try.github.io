@@ -54,7 +54,7 @@ div {
 
 @media screen and (max-width: 576px) {
   .text .year,
-  #new {
+  .year #new {
     font-size: 60px;
   }
 }
